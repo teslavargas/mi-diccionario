@@ -1,0 +1,110 @@
+body {
+  background-color: #161616;
+}
+header {
+  padding: 15px;
+}
+h1,
+h2,
+h4 {
+  color: #30aa75;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+button {
+  padding: 10px;
+  position: absolute;
+  left: 50px;
+  margin-top: 15px;
+  background: transparent;
+  border: 2px solid #346751;
+  border-radius: 6px;
+  color: #30aa75;
+  cursor: pointer;
+}
+
+.description {
+  background-color: #3467510e;
+  padding: 20px;
+  width: 50%;
+  border-radius: 10px;
+  box-shadow: 10px 10px 13px 1px rgba(0, 0, 0, 0.31);
+  -webkit-box-shadow: 10px 10px 13px 1px rgba(0, 0, 0, 0.31);
+  -moz-box-shadow: 10px 10px 13px 1px rgba(0, 0, 0, 0.31);
+}
+
+.description button {
+  position: absolute;
+  bottom: 430px;
+  right: 50px;
+  border: none;
+}
+
+.App {
+  padding: 30px;
+}
+
+@media (max-width: 375px) {
+  .description {
+    height: 250px;
+    width: 80%;
+  }
+  .description button {
+    margin-left: 50%;
+  }
+}
+
+.container-list {
+  padding-top: 100px;
+  left: 1px;
+}
+
+.list {
+  font-size: 10px;
+  text-decoration: underline;
+  color: #0b3d28;
+  background-color: #3467510e;
+  border-radius: 10px;
+  padding: 10px;
+  overflow-y: visible;
+  position: relative;
+  top: 70px;
+  box-shadow: 10px 10px 13px 1px rgba(0, 0, 0, 0.31);
+  -webkit-box-shadow: 10px 10px 13px 1px rgba(0, 0, 0, 0.31);
+  -moz-box-shadow: 10px 10px 13px 1px rgba(0, 0, 0, 0.31);
+  width: 200px;
+  height: 200px;
+  overflow: auto;
+  overflow-x: hidden;
+  margin-bottom: 50px;
+  margin-left: 5px;
+}
+
+.list::-webkit-scrollbar{
+  width: 10px;
+  background-color: #10362571;
+}
+
+.list::-webkit-scrollbar-thumb{
+  background-color: #346751;
+  border-radius: 5px;
+}
+
+.list button {
+  margin-left: 120px;
+  margin-top: 0px;
+  border: none;
+}
+
+::-webkit-scrollbar{
+  width: 20px;
+  background-color: #10362571;
+}
+::-webkit-scrollbar-thumb{
+  background-color: #184632;
+  border-radius: 3px;
+
+}
