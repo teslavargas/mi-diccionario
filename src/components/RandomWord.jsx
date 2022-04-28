@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import data from '../data'; 
-import styles from "../styles/styles.css";
+import data from '../data.json'; 
+import "../styles/styles.css";
 
 export const RandomWord = () => {
 
