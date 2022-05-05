@@ -848,15 +848,43 @@
     "description": "Levantar una cosa para calcular aproximadamente el peso que tiene. Examinar con atención o considerar con prudencia las ventajas y los inconvenientes de algo, o su importancia y trascendencia."
   },
   {
-    "name": "Ectomorfo",
+    "name": "ectomorfo",
     "description": "Delgado, con poca grasa y poco músculo. Tienen problemas para ganar peso."
   },
   {
-    "name": "Endomorfo",
+    "name": "endomorfo",
     "description": "Mucha grasa y músculo, con una forma corporal más redonda que la de los ectomorfos."
   },
   {
-    "name": "Ersatz",
+    "name": "ersatz",
     "description": "Sucedáneo. Imitación de."
+  },
+  {
+    "name": "istigkeit",
+    "description": "Ser esencia."
+  },
+  {
+    "name": "acerbidad",
+    "description": "Crueldad, rigor, dureza, aspereza."
+  },
+  {
+    "name": "arhat",
+    "description": "En el budismo, arhat o arahant es alguien que ha ganado el entendimiento profundo sobre la verdadera naturaleza de la existencia, que ha alcanzado el nirvana y en consecuencia, no volverá a nacer de nuevo. El budismo Theravāda considera el convertirse en arhat como la meta del progreso espiritual."
+  },
+  {
+    "name": "arhat",
+    "description": "En el budismo, arhat o arahant es alguien que ha ganado el entendimiento profundo sobre la verdadera naturaleza de la existencia, que ha alcanzado el nirvana y en consecuencia, no volverá a nacer de nuevo. El budismo Theravāda considera el convertirse en arhat como la meta del progreso espiritual."
+  },
+  {
+    "name": "desdeñar",
+    "description": "No considerar de importancia una cosa."
+  },
+  {
+    "name": "insondable",
+    "description": "Que es tan profundo, que no se puede alcanzar su fondo. Que no puede ser conocido o comprendido por ser misterioso, difícil o impenetrable."
+  },
+  {
+    "name": "pleitesía",
+    "description": "Muestra reverente de acatamiento de algo o sumisión a alguien. 'rendir pleitesía'."
   }
 ]
