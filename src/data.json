@@ -846,5 +846,17 @@
   {
     "name": "sopesar",
     "description": "Levantar una cosa para calcular aproximadamente el peso que tiene. Examinar con atención o considerar con prudencia las ventajas y los inconvenientes de algo, o su importancia y trascendencia."
+  },
+  {
+    "name": "Ectomorfo",
+    "description": "Delgado, con poca grasa y poco músculo. Tienen problemas para ganar peso."
+  },
+  {
+    "name": "Endomorfo",
+    "description": "Mucha grasa y músculo, con una forma corporal más redonda que la de los ectomorfos."
+  },
+  {
+    "name": "Ersatz",
+    "description": "Sucedáneo. Imitación de."
   }
 ]
